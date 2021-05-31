@@ -1,3 +1,0 @@
-pip install cookiecutter # for datascience project structure
-pip install dvc #inside the project folder
-dvc init
